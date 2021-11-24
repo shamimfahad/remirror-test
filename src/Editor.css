@@ -1,0 +1,13 @@
+.remirror-theme .ProseMirror {
+  /* box-shadow: silver 0 0 0 0.1em; */
+  box-shadow: none;
+  overflow-y: hidden;
+  height: auto;
+  transition: all 0.15s ease-in;
+  cursor: text;
+}
+
+.remirror-theme .ProseMirror:focus,
+.remirror-theme .ProseMirror:hover {
+  box-shadow: aquamarine 0 0 0 0.1em;
+}

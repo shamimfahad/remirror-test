@@ -1,0 +1,465 @@
+[
+  {
+    "type": "paragraph",
+    "attrs": {
+      "columnSpan": null
+    },
+    "content": [
+      {
+        "type": "text",
+        "marks": [
+          {
+            "type": "italic"
+          }
+        ],
+        "text": "just"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "text",
+        "marks": [
+          {
+            "type": "bold"
+          }
+        ],
+        "text": "A"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "text",
+        "marks": [
+          {
+            "type": "strike"
+          }
+        ],
+        "text": "text"
+      },
+      {
+        "type": "text",
+        "text": " "
+      }
+    ]
+  },
+  {
+    "type": "paragraph",
+    "attrs": {
+      "columnSpan": null
+    }
+  },
+  {
+    "type": "table",
+    "attrs": {
+      "columnSpan": null
+    },
+    "content": [
+      {
+        "type": "tableRow",
+        "content": [
+          {
+            "type": "tableHeaderCell",
+            "attrs": {
+              "colspan": 1,
+              "rowspan": 1,
+              "colwidth": null,
+              "background": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "columnSpan": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "one"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "tableHeaderCell",
+            "attrs": {
+              "colspan": 1,
+              "rowspan": 1,
+              "colwidth": null,
+              "background": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "columnSpan": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "two"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "tableHeaderCell",
+            "attrs": {
+              "colspan": 1,
+              "rowspan": 1,
+              "colwidth": null,
+              "background": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "columnSpan": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "three"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "tableRow",
+        "content": [
+          {
+            "type": "tableCell",
+            "attrs": {
+              "colspan": 1,
+              "rowspan": 1,
+              "colwidth": null,
+              "background": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "columnSpan": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "row 1, col 1"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "tableCell",
+            "attrs": {
+              "colspan": 1,
+              "rowspan": 1,
+              "colwidth": null,
+              "background": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "columnSpan": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "row 1, col 2"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "tableCell",
+            "attrs": {
+              "colspan": 1,
+              "rowspan": 1,
+              "colwidth": null,
+              "background": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "columnSpan": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "row 1, col 3"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "tableRow",
+        "content": [
+          {
+            "type": "tableCell",
+            "attrs": {
+              "colspan": 1,
+              "rowspan": 1,
+              "colwidth": null,
+              "background": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "columnSpan": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "row 2, col 1"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "tableCell",
+            "attrs": {
+              "colspan": 1,
+              "rowspan": 1,
+              "colwidth": null,
+              "background": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "columnSpan": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "row 2, col 2"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "tableCell",
+            "attrs": {
+              "colspan": 1,
+              "rowspan": 1,
+              "colwidth": null,
+              "background": null
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "columnSpan": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "row 2, col 3"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "paragraph",
+    "attrs": {
+      "columnSpan": null
+    }
+  },
+  {
+    "type": "taskList",
+    "attrs": {
+      "columnSpan": null
+    },
+    "content": [
+      {
+        "type": "taskListItem",
+        "attrs": {
+          "checked": true
+        },
+        "content": [
+          {
+            "type": "paragraph",
+            "attrs": {
+              "columnSpan": null
+            },
+            "content": [
+              {
+                "type": "text",
+                "text": "task 1"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "taskListItem",
+        "attrs": {
+          "checked": false
+        },
+        "content": [
+          {
+            "type": "paragraph",
+            "attrs": {
+              "columnSpan": null
+            },
+            "content": [
+              {
+                "type": "text",
+                "text": "task 2"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "taskListItem",
+        "attrs": {
+          "checked": false
+        },
+        "content": [
+          {
+            "type": "paragraph",
+            "attrs": {
+              "columnSpan": null
+            },
+            "content": [
+              {
+                "type": "text",
+                "text": "task 3"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "orderedList",
+    "attrs": {
+      "columnSpan": null,
+      "order": 1
+    },
+    "content": [
+      {
+        "type": "listItem",
+        "attrs": {
+          "closed": false,
+          "nested": false
+        },
+        "content": [
+          {
+            "type": "paragraph",
+            "attrs": {
+              "columnSpan": null
+            },
+            "content": [
+              {
+                "type": "text",
+                "text": "Ordered"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "listItem",
+        "attrs": {
+          "closed": false,
+          "nested": false
+        },
+        "content": [
+          {
+            "type": "paragraph",
+            "attrs": {
+              "columnSpan": null
+            },
+            "content": [
+              {
+                "type": "text",
+                "text": "list"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "bulletList",
+    "attrs": {
+      "columnSpan": null
+    },
+    "content": [
+      {
+        "type": "listItem",
+        "attrs": {
+          "closed": false,
+          "nested": false
+        },
+        "content": [
+          {
+            "type": "paragraph",
+            "attrs": {
+              "columnSpan": null
+            },
+            "content": [
+              {
+                "type": "text",
+                "text": "Bullet list"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "blockquote",
+    "attrs": {
+      "columnSpan": null
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "attrs": {
+          "columnSpan": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Blockquote"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "paragraph",
+    "attrs": {
+      "columnSpan": null
+    }
+  }
+]
